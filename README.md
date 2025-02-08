@@ -9,9 +9,9 @@
 
 This Google Colab-based system automates bubble sheet grading for Spanish-language multiple-choice tests. It detects marked answers, extracts barcodes for student identification, and saves results in a CSV file.
 
-It supports:
-✅ Single image processing (`Image_input.ipynb`).
-✅ Multi-page PDF processing (`Pdf_input.ipynb`).
+It supports: <br> 
+✅ Single image processing (`Image_input.ipynb`). <br> 
+✅ Multi-page PDF processing (`Pdf_input.ipynb`). <br> 
 
 The system automatically grades 60 blocks per sheet, stores student responses, and marks detected answers on the output image.
 
