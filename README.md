@@ -1,5 +1,10 @@
 # 📄 Automated Bubble Sheet Grading System
 
+[![Python](https://img.shields.io/badge/Python-3.x-blue.svg?style=flat&logo=python)](https://www.python.org)
+[![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00.svg?style=flat&logo=googlecolab)](https://colab.research.google.com)
+[![OpenCV](https://img.shields.io/badge/OpenCV-4.x-blue.svg?style=flat&logo=opencv)](https://opencv.org/)
+[![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+
 ## 📌 Process Single Images & PDFs for Auto-Grading with Barcode Tracking
 
 This Google Colab-based system automates bubble sheet grading for Spanish-language multiple-choice tests. It detects marked answers, extracts barcodes for student identification, and saves results in a CSV file.
